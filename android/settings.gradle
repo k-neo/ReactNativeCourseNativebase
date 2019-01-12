@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeCourseNativebase'
+
+include ':app'
